@@ -1,0 +1,2 @@
+# MazeStruct
+Data Structures @ TCC
